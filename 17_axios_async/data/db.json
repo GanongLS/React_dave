@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "May 15, 2023 7:19:13 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!\n\nHola Seniore!\n\nHola Seniore!\n\nWelcome to the jungle seniore.\n\nUlala.\n\nHohohoho."
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "Jakarta",
+      "datetime": "May 15, 2023 8:14:48 AM",
+      "body": "Ke Jakarta aku kan kembali, meskipun apa yang tlah terjadi. \n\nDisana rumahku, berslimut kabut biru, kenanganku slama bersamamu."
+    },
+    {
+      "id": 6,
+      "title": "Bandung",
+      "datetime": "May 15, 2023 8:34:23 AM",
+      "body": "Halo halo bandung...\nIbukota periangan...\nSudah lama beta tidak berjumpa dengan kau... \nsekarang telah menjadi lautan api... \nMari bung kita rebut kembali...."
+    }
+  ]
+}

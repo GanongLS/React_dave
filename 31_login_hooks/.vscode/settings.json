@@ -1,0 +1,6 @@
+{
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"prettier.bracketSameLine": true,
+	"prettier.singleAttributePerLine": true
+}

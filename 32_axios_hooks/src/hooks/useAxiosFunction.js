@@ -19,6 +19,7 @@ const useAxiosFunction = () => {
 			});
 			console.log(res);
 			setResponse(res.data);
+			setError("");
 		} catch (err) {
 			console.log(err.message);
 			setError(err.message);
@@ -30,7 +31,7 @@ const useAxiosFunction = () => {
 	useEffect(() => {
 		console.log(controller);
 		// useEffect cleanup function
-		return () => controller && controller.abort();
+		return () => loading && controller.abort();
 	}, [controller]);
 
 	return [response, error, loading, axiosFetch];

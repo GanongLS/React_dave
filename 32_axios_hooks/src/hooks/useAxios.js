@@ -22,6 +22,7 @@ const useAxios = configObj => {
 				});
 				console.log(res);
 				setResponse(res.data);
+				setError("");
 			} catch (err) {
 				console.log(err.message);
 				setError(err.message);
@@ -34,7 +35,7 @@ const useAxios = configObj => {
 		fetchData();
 
 		// useEffect cleanup function
-		return () => controller && controller.abort();
+		return () => loading && controller.abort();
 
 		// eslint-disable-next-line
 	}, [reload]);
